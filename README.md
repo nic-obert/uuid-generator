@@ -3,5 +3,6 @@
 A simple UUID generator written in Python.
 
 It uses a binary tree internally to store the UUIDs to ensure that
-they are always unique.
+they are always unique.  
+Alternatively, there's a more performant dictionary-based implementation.
 
